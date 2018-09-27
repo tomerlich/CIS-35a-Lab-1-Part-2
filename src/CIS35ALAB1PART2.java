@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class GuessSqrt {
+public class CIS35ALAB1PART2 {
 	// we declare our variables
 	private static long lastGuess = 0l;
 	private static long nextGuess = 0l;
